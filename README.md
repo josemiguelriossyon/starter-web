@@ -8,4 +8,4 @@ fasdfadsfdasdfadfadfadfsdadf for rebase, then more changes from my future branch
 Sample website with plenty of files for demos
 
 ## Copyright
-fasdfasdfasd
+fasdfasdfasd All rights reserved
